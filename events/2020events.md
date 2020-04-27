@@ -4,7 +4,7 @@
 * [DevRelCon](https://sf2020.devrel.net/): TBD (Virtual)
 * [OpenDev + PTG](https://www.eventbrite.com/e/opendev-ptg-vancouver-2020-tickets-88923270897): June 8-11 (Vancouver, BC)
 * [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/): June 22-24 (Austin, TX)
-* [OSCON](https://conferences.oreilly.com/oscon/oscon-or): July 13-16 (Portland, OR)
+* <strike>[OSCON](https://conferences.oreilly.com/oscon/oscon-or) July 13-16 (Portland, OR)</strike> (cancelled)
 * [All Things Open](https://2020.allthingsopen.org/): Oct 12-16 (Raleigh, NC)
 * [Open Infrastructure Summit](https://www.openstack.org/events/opendev-ptg-2020/): Oct 19-23 (Berlin, Germany)
 * [KubeCon NA](https://events20.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2020/): Nov 17-20 (Boston, MA)
